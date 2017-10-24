@@ -6,7 +6,7 @@ In addition to the `wt serve` command, there is the `wt debug` command.
 
 ## Debugging with Devtool
 
-The simplest and quickest way to debug is using the stand alone Electron-based debugger Devtool. Devtool is great because you you can install it right from npm. Let's see how you can use it to debug the task. 
+The simplest and quickest way to debug is using the stand alone Electron-based debugger Devtool. Devtool is great because you can install it right from npm. Let's see how you can use it to debug the task. 
 
 - Execute the command, `npm install -g devtool`.
 - Execute the command below.
